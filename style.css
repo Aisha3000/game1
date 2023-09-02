@@ -1,0 +1,26 @@
+
+.container{
+    background-color: rgb(29, 28, 28);
+    text-align: center;
+    color: rgb(82, 228, 220);
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+.dice{
+    
+    text-align: center;
+    color: rgb(40, 209, 231);
+    font-size: large;
+    font-style: initial;
+    text-decoration: double;
+}
+.h1{
+    color: aqua;
+    text-align: center;
+}
+.bottom-container{
+    color: rgb(108, 238, 238);
+    text-align: left;
+    text-decoration: solid;
+}
